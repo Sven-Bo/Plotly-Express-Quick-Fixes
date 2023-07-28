@@ -2,8 +2,7 @@
 In this tutorial, we will explore six simple yet effective techniques to enhance your data visualization experience with Plotly Express in Python. These quick fixes will enable you to present your data in a more appealing and insightful manner, no matter the complexity of your dataset.
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/4Ii2WO0Uh_4/0.jpg)](https://youtu.be/4Ii2WO0Uh_4)
 
 ## 🤝 Get to Know Me & Stay Connected
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
